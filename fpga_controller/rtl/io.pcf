@@ -1,0 +1,11 @@
+set_io CLK D1
+set_io LED0 A1
+set_io LED1 C2
+set_io LED2 E3
+set_io LED3 E2 
+set_io LED4 C6
+set_io LED5 B4
+set_io TAMPER_IN B5
+set_io RX  A3
+set_io TX  B3
+
